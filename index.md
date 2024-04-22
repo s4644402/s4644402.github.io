@@ -9,4 +9,12 @@ So, Welcome to my Blog!
 
 </div>
 
+<p align="center">
+
+  ![](images/blog.png)
+
+</p>
+
+
+
 ![](images/blog.png)
