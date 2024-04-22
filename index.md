@@ -9,4 +9,4 @@ So, Welcome to my Blog!
 
 </div>
 
-![Image of My Face logo](images/Blog Photo.png)
+![](images/blog.png)
