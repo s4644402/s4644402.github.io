@@ -15,6 +15,3 @@ So, Welcome to my Blog!
 
 </p>
 
-
-
-![](images/blog.png)
