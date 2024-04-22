@@ -8,3 +8,5 @@ My name is Aswin Jacob Lijo (46444022) and I am 4th Year Bachelor of Engineering
 So, Welcome to my Blog!
 
 </div>
+
+![Image of fast.ai logo](images/logo.png)
